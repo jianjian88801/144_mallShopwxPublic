@@ -8,7 +8,7 @@ import org.springframework.web.cors.CorsUtils;
 
 /**
  * 使用security的防火墙功能，但不使用security的认证授权登录
- * @author 931708230
+ * @author 1556708905
  * @date 2022/3/25 17:33
  */
 @Component

@@ -4,7 +4,7 @@ import java.util.List;
 
 /**
  * 实现该接口之后，修改需要授权登陆的路径，不需要授权登陆的路径
- * @author 931708230
+ * @author 1556708905
  * @date 2022/3/25 17:31
  */
 public interface AuthConfigAdapter {

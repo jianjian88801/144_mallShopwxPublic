@@ -15,7 +15,7 @@ import lombok.Data;
 /**
  * token信息，该信息存在redis中
  *
- * @author 931708230
+ * @author 1556708905
  * @date 2022/3/25 17:33
  */
 @Data
